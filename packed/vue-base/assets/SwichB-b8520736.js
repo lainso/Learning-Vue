@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as n}from"./index-2a812825.js";const c={beforeUnmount(){console.log("组件B卸载前")},unmounted(){console.log("组件B被卸载了")}};function t(s,r,a,l,_,p){return e(),n("h3",null,"这里是组件B")}const f=o(c,[["render",t]]);export{f as default};
